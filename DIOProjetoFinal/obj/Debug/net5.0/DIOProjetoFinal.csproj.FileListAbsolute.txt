@@ -1,0 +1,16 @@
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\bin\Debug\net5.0\DIOProjetoFinal.exe
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\bin\Debug\net5.0\DIOProjetoFinal.deps.json
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\bin\Debug\net5.0\DIOProjetoFinal.runtimeconfig.json
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\bin\Debug\net5.0\DIOProjetoFinal.runtimeconfig.dev.json
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\bin\Debug\net5.0\DIOProjetoFinal.dll
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\bin\Debug\net5.0\ref\DIOProjetoFinal.dll
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\bin\Debug\net5.0\DIOProjetoFinal.pdb
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\obj\Debug\net5.0\DIOProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\obj\Debug\net5.0\DIOProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\obj\Debug\net5.0\DIOProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\obj\Debug\net5.0\DIOProjetoFinal.AssemblyInfo.cs
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\obj\Debug\net5.0\DIOProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\obj\Debug\net5.0\DIOProjetoFinal.dll
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\obj\Debug\net5.0\ref\DIOProjetoFinal.dll
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\obj\Debug\net5.0\DIOProjetoFinal.pdb
+C:\Users\Fabricio Mady\Desktop\POO DIO\DIOProjetoFinal\DIOProjetoFinal\obj\Debug\net5.0\DIOProjetoFinal.genruntimeconfig.cache

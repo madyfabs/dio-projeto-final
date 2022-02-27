@@ -8,32 +8,32 @@ namespace DIOProjetoFinal.Entities
     {   
         private List<Series> listaSeries = new List<Series>();
 
-        void IRepositorio<Series>.Atualiza(int id, Series entidade)
+        public void Atualiza(int id, Series entidade)
         {
             listaSeries[id] = entidade;
         }
 
-        void IRepositorio<Series>.Exclui(int id)
+        public void Exclui(int id)
         {
             listaSeries[id].Excluir();
         }
 
-        void IRepositorio<Series>.Insere(Series entidade)
+        public void Insere(Series entidade)
         {
             listaSeries.Add(entidade);
         }
 
-        List<Series> IRepositorio<Series>.Lista()
+        public List<Series> Lista()
         {
             return listaSeries;
         }
 
-        int IRepositorio<Series>.ProximoId()
+        public int ProximoId()
         {
             return listaSeries.Count;
         }
 
-        Series IRepositorio<Series>.RetornaPorId(int id)
+        public Series RetornaPorId(int id)
         {
             return listaSeries[id];
         }

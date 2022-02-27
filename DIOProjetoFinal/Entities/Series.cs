@@ -29,6 +29,7 @@ namespace DIOProjetoFinal.Entities
             dados += "Título: " + this.Titulo + Environment.NewLine;
             dados += "Descrição: " + this.Descricao + Environment.NewLine;
             dados += "Ano de Início: " + this.Ano + Environment.NewLine;
+            dados += "Disponível: " + this.Excluido;
 
             return dados;
         }
